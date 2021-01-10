@@ -7,4 +7,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=NoHandsMate/?username=NoHandsMate)](https://github.com/anuraghazra/github-readme-stats)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoHandsMate&layout=compact&theme=tokyonight)
